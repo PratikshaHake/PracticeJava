@@ -11,6 +11,7 @@ public interface InterfaceDemo {
 	{
 		System.out.println("abc");
 		System.out.println("Inside abc method");
+		System.out.println("Default abc method");
 	}
 
 }
