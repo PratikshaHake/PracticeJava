@@ -10,6 +10,7 @@ public interface InterfaceDemo {
 	default void abc()
 	{
 		System.out.println("abc");
+		System.out.println("Inside abc method");
 	}
 
 }
