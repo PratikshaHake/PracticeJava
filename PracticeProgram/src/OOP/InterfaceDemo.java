@@ -5,6 +5,7 @@ public interface InterfaceDemo {
 	public static void show()
 	{
 		System.out.println("show");
+		System.out.println("static method");
 	}
 	
 	default void abc()
